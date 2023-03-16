@@ -47,7 +47,7 @@ nav:
   - About Me😊: index.md
 
   - OWASP:
-      - Intro: owasp/intro.md
+      - OWASP Testing Framework: owasp/intro.md
 
 # Extensions
 markdown_extensions:
