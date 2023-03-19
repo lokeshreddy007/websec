@@ -48,6 +48,21 @@ nav:
 
   - OWASP:
       - OWASP Testing Framework: owasp/intro.md
+      - OWASP Top 10: owasp/top10.md
+  
+  - IDOR:
+    - Intro: idor/index.md
+  - Xss:
+    - Intro: xss/index.md
+  - No Rate Limit:
+    - Intro: noRateLimit/index.md
+  - Account TakeOver:
+    - Intro: accountTakeOver/index.md
+  - OTP Bypass:
+    - Intro: otpBypass/index.md
+
+  
+  
 
 # Extensions
 markdown_extensions:
