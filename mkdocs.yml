@@ -49,11 +49,13 @@ nav:
   - OWASP:
       - OWASP Testing Framework: owasp/intro.md
       - OWASP Top 10: owasp/top10.md
+      - HTTP Headers: owasp/httpHeaders.md
   
   - IDOR:
     - Intro: idor/index.md
   - Xss:
     - Intro: xss/index.md
+    - Guide: xss/reports.md
   - No Rate Limit:
     - Intro: noRateLimit/index.md
   - Account TakeOver:

@@ -6,3 +6,4 @@
 5. Xss using base64 encoding
 6. Use burp spider or paramcheck to find the search params location to using in xss
 7. Store xss try in edit profile in username and other...
+
